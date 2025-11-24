@@ -97,3 +97,97 @@ Compile → Run
 Using GCC in Terminal
 gcc bank.c -o bank
 ./bank
+
+OUTPUT:
+------- BANKING SYSTEM -------
+1. Create Account
+2. Display All Accounts
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+Enter your choice: 1
+
+Enter Account Number: 890
+Enter Name: Minakshi Kar
+Account Created Successfully!
+
+------- BANKING SYSTEM -------
+1. Create Account
+2. Display All Accounts
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+Enter your choice:
+Enter Account Number: Enter Name: Account Created Successfully!
+
+------- BANKING SYSTEM -------
+1. Create Account
+2. Display All Accounts
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+Enter your choice: 2
+
+---- ACCOUNT DETAILS ----
+Account No: 890
+Name: Minakshi
+Balance: 0.00
+
+Account No: 452
+Name: Kar
+Balance: 0.00
+
+
+------- BANKING SYSTEM -------
+1. Create Account
+2. Display All Accounts
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+Enter your choice: 3
+
+Enter Account Number: 890
+Enter amount to deposit: 5000 
+Amount Deposited Successfully!
+
+------- BANKING SYSTEM -------
+1. Create Account
+2. Display All Accounts
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+Enter your choice: 4
+
+Enter Account Number: 500
+Account not found!
+
+------- BANKING SYSTEM -------
+1. Create Account
+2. Display All Accounts
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+Enter your choice: 5
+
+Enter Account Number: 890
+Current Balance = 5000.00
+
+------- BANKING SYSTEM -------
+1. Create Account
+2. Display All Accounts
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Exit
+Enter your choice: 6
+
+Thank you for using Banking System!
+PS C:\Users\rajal\OneDrive\Desktop\project\output>
+
+
